@@ -1,0 +1,84 @@
+{
+  "seminars": [
+    {
+      "id": "1",
+      "title": "Новинки Kosmoteros",
+      "description": "Обзор новых средств и методик от Kosmoteros.",
+      "date": "2025-03-25",
+      "time": "10:00",
+      "photo": "https://www.profelit.ru/pictures/vendor/v2562.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Семинар по инновациям в косметологии",
+      "description": "Разбор новейших тенденций в косметологии и трендовых продуктов.",
+      "date": "2025-03-13",
+      "time": "11:00",
+      "photo": "https://cdn1.mygazeta.com/i/2023/11/LR-7460-1024x683.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Технологии ухода за кожей",
+      "description": "Изучение современных методик ухода за кожей с применением новейших технологий.",
+      "date": "2025-03-21",
+      "time": "12:00",
+      "photo": "https://www.yamaguchi.ru/images/five-rules/desk/main-wp.webp"
+    },
+    {
+      "id": "4",
+      "title": "Актуальные тренды в бьюти-индустрии",
+      "description": "Обсуждение современных трендов и методик в бьюти-индустрии.",
+      "date": "2025-03-21",
+      "time": "13:00",
+      "photo": "https://rixincosmetics.com/wp-content/uploads/2024/04/beauty-trends-1024x536.webp"
+    },
+    {
+      "id": "5",
+      "title": "Секреты профессионалов Kosmoteros",
+      "description": "Семинар с участием ведущих специалистов по использованию средств Kosmoteros.",
+      "date": "2025-03-25",
+      "time": "14:00",
+      "photo": "https://zolotoy.ru/wp-content/uploads/2021/10/850%D1%85550-3-e1669112594281.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Эффективные методики омоложения",
+      "description": "Обучение современным методикам омоложения и ухода за кожей.",
+      "date": "2025-03-14",
+      "time": "15:00",
+      "photo": "https://viclinics.kz/wp-content/uploads/2022/08/termolifting-m-22.jpeg"
+    },
+    {
+      "id": "7",
+      "title": "Инновационные средства Kosmoteros",
+      "description": "Демонстрация новых продуктов Kosmoteros и их уникальных свойств.",
+      "date": "2025-03-21",
+      "time": "01:00",
+      "photo": "https://m.buro247.ru/images/beauty/byuti-revolyutciya-kosmetika-budushcego-i-neobychn-o.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Современные тренды в уходе за кожей",
+      "description": "Семинар о новейших трендах в уходе за кожей и эффективных методах лечения.",
+      "date": "2025-03-16",
+      "time": "04:00",
+      "photo": "https://comfortzoneskin.ru/upload/resize_cache/webp/iblock/514/pweawfw2zy9k3l8ataj8rmd4ux25bypo.webp"
+    },
+    {
+      "id": "9",
+      "title": "Мастер-класс от Kosmoteros",
+      "description": "Практический мастер-класс по использованию инновационных косметических средств.",
+      "date": "2025-03-13",
+      "time": "18:00",
+      "photo": "https://viafuture.ru/wp-content/uploads/2018/09/Kak-prodlit-molodost.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Будущее косметологии с Kosmoteros",
+      "description": "Обсуждение перспектив развития косметологии и роли инноваций.",
+      "date": "2025-03-08",
+      "time": "19:00",
+      "photo": "https://avatars.dzeninfra.ru/get-zen_doc/9662638/pub_647f0ece99bfdf2132021253_647f0f180a3add4ef69ff6cb/scale_1200"
+    }
+  ]
+}
