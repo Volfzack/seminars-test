@@ -7,7 +7,7 @@ const SeminarModal = ({ isOpen, onClose, seminar, onSave, onDeleteConfirm }) => 
 
   const handleSave = (e) => {
     e.preventDefault();
-    // Здесь будет логика сохранения изменений
+    // Здесь логика сохранения изменений
     onSave({
       id: seminar.id, 
       title: e.target.title.value,
