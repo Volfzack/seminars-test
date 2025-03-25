@@ -1,7 +1,7 @@
 import React from 'react';
 
 const SeminarList = ({ seminars, onDeleteSeminar, onEditSeminar }) => {
-    console.log(seminars);
+ //Перебираем список семинаров 
   return (
     <ul className='lecture-list'>
       {seminars.map(seminar => (
